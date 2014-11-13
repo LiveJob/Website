@@ -1,0 +1,36 @@
+<DOCTYPE html>
+
+	<head>
+	
+		<title>
+		
+		HomePage
+	
+		</title>
+
+		<style>
+
+			#header{
+			
+			}
+		
+			body{
+			background-color: #355e3b;
+			}
+
+			#navbar{
+			background-color: #355e3b;
+			height: 600px;
+			width: 200px;
+			
+			}
+
+		</style>
+
+	</head>
+
+	<body>
+	
+	</body>
+
+</html>

@@ -2,7 +2,39 @@
 <html>
 <body>
 
-<h1> Employment Page </h1>
+<head>
+<style>
+#header	{
+background-color:#537E53;
+color:black;
+text-align:center;
+padding:5px;
+}
 
-</body>
-</html>
+ul#header li{
+display:inline;
+}
+
+</head>
+</style>
+
+<body>
+
+<div id="header">
+<ul id="header">
+	<li> <img src="pictures/download.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
+	<li style="font-size:300%">The Oaks of Alamance</li>
+	<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
+		<img src="pictures/images.jpg" alt="Facebook" style="height:20px;width:20px"></li>
+</div>
+
+
+
+
+<h1> Floor Plan </h1>
+
+<img src="Haven-Alzheimers-Greenville-Floorplans(1).jpg" style="width:400px;height400px">
+<img src="onrcal_floorplan.jpg" style="width:500px;height500px" align="right">
+
+<p> <strong> Private Suite $1999 per month 600 sq ft. </p> <p style="text-align:right"> <span> Building Floor Plan </span> </p>
+<p> Semi-Private suite $999 per month 800 sq ft.  </strong> </p>

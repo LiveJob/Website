@@ -36,5 +36,5 @@ display:inline;
 <img src="Haven-Alzheimers-Greenville-Floorplans(1).jpg" style="width:400px;height400px">
 <img src="onrcal_floorplan.jpg" style="width:500px;height500px" align="right">
 
-<p> <strong> Private Suite $1999 per month 600 sq ft. </p> <p style="text-align:right"> <span> Building Floor Plan </span> </p>
-<p> Semi-Private suite $999 per month 800 sq ft.  </strong> </p>
+<p style="margin:0;padding:0"> Private Suite $1999 per month 600 sq ft.</p> 
+<p>Semi-Private suite $999 per month 800 sq ft. </p> <p style="text-align:right">Building Floor Plan  </p>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+#footer	{
+	background-color:#537E53;
+	color:black;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+</style>
+</head>
+
+<div id="footer">
+<h1>The Oaks of Alamance</h1>
+<h2>1670 Westbrook Avenue<br>
+Burlington, NC 27215<br>
+Phone: 336-584-3070<br>
+Fax: 336-584-3458
+</div>

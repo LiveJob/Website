@@ -9,20 +9,24 @@
 		</title>
 
 		<style>
-
-			#header{
-			
-			}
 		
 			body{
-			background-color: #355e3b;
 			}
-
-			#navbar{
-			background-color: #355e3b;
-			height: 600px;
-			width: 200px;
 			
+			#header{
+			background-color: #355e3b;
+			width: 100%;
+			height: 140px;
+			text-align: center;
+			padding: 1px;
+			}
+	
+			#navbar{
+			background-color: #009999;
+			height: 600px;
+			width: 170px;
+			float: left;
+			text-align: center;
 			}
 
 		</style>
@@ -30,6 +34,14 @@
 	</head>
 
 	<body>
+
+	<div id="header">
+	<h2> The Oaks Of Alamance </h2>
+	</div>
+
+	<div id="navbar">
+	<p> Navigation </p>
+	</div>
 	
 	</body>
 

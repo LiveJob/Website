@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-<style>
-#header	{
-background-color:#537E53;
-color:black;
-text-align:center;
-padding:5px;
-}
+	<head>
+		<style>
+			#header	{
+			background-color:#537E53;
+			color:black;
+			text-align:center;
+			padding:5px;
+			}
 
-ul#header li{
-display:inline;
-}
-
-</head>
-</style>
+			ul#header li{
+			display:inline;
+			}
+		</style>
+		
+	</head>
 
 <body>
 

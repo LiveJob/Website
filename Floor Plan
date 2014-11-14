@@ -10,10 +10,19 @@ color:black;
 text-align:center;
 padding:5px;
 }
-
 ul#header li{
 display:inline;
 }
+
+
+#navbar {
+			background-color: #009999;
+			height: 600px;
+			width: 170px;
+			float: left;
+			text-align: center;
+			position: fixed;
+			}
 
 </head>
 </style>
@@ -22,6 +31,11 @@ display:inline;
 
 <div id="header">
 <ul id="header">
+
+<div id="navbar">
+		<p id="pa"> Navigation </p>
+		</div>
+
 	<li> <img src="pictures/download.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
 	<li style="font-size:300%">The Oaks of Alamance</li>
 	<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
@@ -33,7 +47,7 @@ display:inline;
 
 <h1> Floor Plan </h1>
 
-<img src="Haven-Alzheimers-Greenville-Floorplans(1).jpg" style="width:400px;height400px">
+<img src="Haven-Alzheimers-Greenville-Floorplans(1).jpg" style="width:400px;height400px" align="middle">
 <img src="onrcal_floorplan.jpg" style="width:500px;height500px" align="right">
 
 <p style="margin:0;padding:0"> Private Suite $1999 per month 600 sq ft.</p> 

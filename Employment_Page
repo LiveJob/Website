@@ -1,1 +1,83 @@
+<DOCTYPE html>
+<html>
 
+<head>
+	
+		<title>
+		
+		HomePage
+	
+		</title>
+
+		<style>
+
+
+
+			#header	{
+			background-color:#537E53;
+			color:black;
+			text-align:center;
+			padding:5px;
+			width: 100%;
+			height: 95px;
+			}
+
+			ul#header li {
+			display:inline;
+			}
+
+#navbar {
+			background-color: #009999;
+			height: 600px;
+			width: 170px;
+			float: left;
+			text-align: center;
+			position: fixed;
+			line-height: 20%;
+			padding: 1px;
+			}
+
+#footer	{
+			background-color:#537E53;
+			color:black;
+			clear:both;
+			text-align:center;
+			padding:5px;
+			}
+
+		</style>
+</head>
+
+<body>	
+
+<div id="header">
+
+			<ul id="header">
+
+			<li> <img src="Oaks_logo.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
+			<li style="font-size:300%">The Oaks of Alamance</li>
+			<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
+			<img src="Facebook_oaks.jpg" alt="Facebook" style="height:20px;width:20px"></li>
+
+			</ul>
+
+		</div>
+
+</div>
+
+		<div id="navbar">
+		<p id="pa"> Navigation </p>
+		</div>
+
+<div id="footer">
+		<h1>The Oaks of Alamance</h1>
+		<h2>1670 Westbrook Avenue<br>
+		Burlington, NC 27215<br>
+		Phone: 336-584-3070<br>
+		Fax: 336-584-3458
+		</div>
+
+<h1 style= "text-align:center"> Employment Page </h1>
+
+</body>
+</html>

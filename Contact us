@@ -1,9 +1,141 @@
-<DOCTYPE html>
-<html>
+<!DOCTYPE html>
 
-<body>
+	<head>
+	
+		<title>
+		
+		HomePage
+	
+		</title>
 
-<h1> Contact us </h1>
+		<style>
+			
+			body {
+			background-color: #CCFFFF;
+			height: 1000px;
+			width: 1333px;
+			margin: 0;
+			padding 0;
+			}	
+			
+			#header	{
+			background-color:#537E53;
+			color:black;
+			text-align:center;
+			width: 100%;
+			height: 95px;
+			}
 
-</body>
+			ul#header li {
+			display:inline;
+			}
+	
+			#navbar {
+			background-color: #009999;
+			height: 600px;
+			width: 170px;
+			float: left;
+			text-align: center;
+			position: fixed;
+			line-height: 90%;
+			padding: 1px;
+			}
+
+			#section {
+			height: 1000px;
+			width: 1333px;
+			float: right;
+			text-align: center;
+			background-color: #CCFFFF;
+			}
+
+			#footer	{
+			background-color: #537E53;
+			color: black;
+			clear: both;
+			text-align: center;
+			padding: 5px;
+			}
+	
+			#pa {
+			font-size: 24px;
+			color: #99FF99;
+			}
+		
+			#pb {
+			font-size: 16px;
+			color: #99FF99;
+			}	
+
+		</style>
+
+	</head>
+
+	<body>
+
+		<div id="header">
+
+			<ul id="header">
+
+			<li> <img src="oakleaf.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
+			<li style="font-size:300%">The Oaks of Alamance</li>
+			<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
+			<img src="facebook.jpg" alt="Facebook" style="height:20px;width:20px"></li>
+
+			</ul>
+
+		</div>
+
+		<div id="navbar">
+
+		<p id="pa"> <u> Navigation </u> </p>
+
+		<br>
+		
+		<p id="pb"> HomePage </p>
+
+		<br>
+
+		<p id="pb"> Contacts </p>
+
+		<br>
+
+		<p id="pb"> Plans&Events </p>
+
+		<br>	
+		
+		<p id="pb"> activities </p>
+
+		<br>
+
+		<p id="pb"> Rehab </p>
+
+		<br>
+
+		<p id="pb"> Employment </p>
+
+		<br>
+
+		<p id="pb"> Menu's </p>
+
+		<br>
+
+		<p id="pb"> Floor Plan </p>
+
+		</div>
+
+		<div id="section">
+		<p> Nurisng Home Test Draft </p>
+		</div>
+
+		<div id="footer">
+		<h1>The Oaks of Alamance</h1>
+		<h2>1670 Westbrook Avenue<br>
+		Burlington, NC 27215<br>
+		Phone: 336-584-3070<br>
+		Fax: 336-584-3458
+		</div>
+	
+	</body>
+
 </html>

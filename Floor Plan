@@ -45,10 +45,31 @@ display:inline;
 
 
 
-<h1> Floor Plan </h1>
-
+<h1 style="text-align:center"> Floor Plan </h1>
+<div>
 <img src="Haven-Alzheimers-Greenville-Floorplans(1).jpg" style="width:400px;height400px" align="right">
 <img src="onrcal_floorplan.jpg" style="width:500px;height500px" align="right">
+</div>
 
-<p style="margin:0;padding:0"> Private Suite $1999 per month 600 sq ft.</p> 
-<p>Semi-Private suite $999 per month 800 sq ft. </p> <p style="text-align:right">Building Floor Plan  </p>
+<div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="text-align:right">Building Floor Plan  </p>
+<p style="text-align:center"> Private suite and semi private suite. Sq ft </p>
+</div>

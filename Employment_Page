@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <body>
@@ -74,8 +74,6 @@
 
 	</head>
 
-<h1 style= "text-align:center"> Employment Page </h1>
-
 <body>
 
 <div id="header">
@@ -130,7 +128,7 @@
 		</div>
 
 		<div id="section">
-		<p> Nurisng Home Test Draft </p>
+		<h1 style= "text-align:center"> Employment Page </h1>
 		</div>
 
 		<div id="footer">

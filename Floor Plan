@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <body>
 
 <head>
@@ -24,6 +23,15 @@ display:inline;
 			position: fixed;
 			}
 
+
+#footer	{
+	background-color:#537E53;
+	color:black;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+
 </head>
 </style>
 
@@ -32,17 +40,15 @@ display:inline;
 <div id="header">
 <ul id="header">
 
-<div id="navbar">
-		<p id="pa"> Navigation </p>
-		</div>
-
 	<li> <img src="36a89ee2-6b35-11e4-8ead-9376abc71039.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
 	<li style="font-size:300%">The Oaks of Alamance</li>
 	<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
 		<img src="3449dbc0-6b35-11e4-9094-406cfed5c5e2.jpg" alt="Facebook" style="height:20px;width:20px"></li>
 </div>
 
-
+<div id="navbar">
+		<p id="pa"> Navigation </p>
+		</div>
 
 
 <h1 style="text-align:center"> Floor Plan </h1>
@@ -73,3 +79,14 @@ display:inline;
 <p style="text-align:right">Building Floor Plan  </p>
 <p style="text-align:center"> Private suite and semi private suite. Sq ft </p>
 </div>
+
+<div id="footer">
+<h1>The Oaks of Alamance</h1>
+<h2>1670 Westbrook Avenue<br>
+Burlington, NC 27215<br>
+Phone: 336-584-3070<br>
+Fax: 336-584-3458
+</div>
+
+</body>
+</html>

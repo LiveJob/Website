@@ -21,6 +21,8 @@ display:inline;
 			float: left;
 			text-align: center;
 			position: fixed;
+			line-height: 90%;
+			padding: 1px;
 			}
 
 
@@ -47,7 +49,41 @@ display:inline;
 </div>
 
 <div id="navbar">
-		<p id="pa"> Navigation </p>
+
+		<p id="pa"> <u> Navigation </u> </p>
+
+		<br>
+		
+		<p id="pb"> HomePage </p>
+
+		<br>
+
+		<p id="pb"> Contacts </p>
+
+		<br>
+
+		<p id="pb"> Plans&Events </p>
+
+		<br>	
+		
+		<p id="pb"> activities </p>
+
+		<br>
+
+		<p id="pb"> Rehab </p>
+
+		<br>
+
+		<p id="pb"> Employment </p>
+
+		<br>
+
+		<p id="pb"> Menu's </p>
+
+		<br>
+
+		<p id="pb"> Floor Plan </p>
+
 		</div>
 
 

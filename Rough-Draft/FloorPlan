@@ -21,6 +21,8 @@ display:inline;
 			float: left;
 			text-align: center;
 			position: fixed;
+			line-height: 90%;
+			padding: 1px;
 			}
 
 
@@ -32,6 +34,16 @@ display:inline;
 	padding:5px;
 }
 
+#pa {
+			font-size: 24px;
+			color: #99FF99;
+			}
+		
+			#pb {
+			font-size: 16px;
+			color: #99FF99;
+			}	
+
 </head>
 </style>
 
@@ -40,54 +52,55 @@ display:inline;
 <div id="header">
 <ul id="header">
 
-	<li> <img src="oakleaf.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
+	<li> <img src="36a89ee2-6b35-11e4-8ead-9376abc71039.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
 	<li style="font-size:300%">The Oaks of Alamance</li>
 	<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
-		<img src="facebook.jpg" alt="Facebook" style="height:20px;width:20px"></li>
+		<img src="3449dbc0-6b35-11e4-9094-406cfed5c5e2.jpg" alt="Facebook" style="height:20px;width:20px"></li>
 </div>
 
-	<div id="navbar">
-	
+<div id="navbar">
+
 		<p id="pa"> <u> Navigation </u> </p>
-	
 
-		<a href="#HomePage.htm"> <p id="pb"> HomePage </p> </a>
+		<br>
 		
-		<br>
-
-		<a href="Contact.htm"> <p id="pb"> Contacts </p> </a>
+		<p id="pb"> HomePage </p>
 
 		<br>
 
-		<a href="Plans_Events.htm"> <p id="pb"> Plans&Events </p> </a>
+		<p id="pb"> Contacts </p>
+
+		<br>
+
+		<p id="pb"> Plans&Events </p>
 
 		<br>	
 		
-		<a href="Activities.htm"> <p id="pb"> activities </p> </a>
+		<p id="pb"> activities </p>
 
 		<br>
 
-		<a href="Rehab.htm"> <p id="pb"> Rehab </p> </a>
+		<p id="pb"> Rehab </p>
 
 		<br>
 
-		<a href="Employment.htm"> <p id="pb"> Employment </p> </a>
+		<p id="pb"> Employment </p>
 
 		<br>
 
-		<a href="Menu.htm"> <p id="pb"> Menu's </p> </a>
+		<p id="pb"> Menu's </p>
 
 		<br>
 
-		<a href="FloorPlan.htm"> <p id="pb"> Floor Plan </p> </a>
+		<p id="pb"> Floor Plan </p>
 
 		</div>
 
 
 <h1 style="text-align:center"> Floor Plan </h1>
 <div>
-<img src="FloorPlan1.jpg" style="width:400px;height400px" align="right">
-<img src="FloorPlan2.jpg" style="width:500px;height500px" align="right">
+<img src="Haven-Alzheimers-Greenville-Floorplans(1).jpg" style="width:400px;height400px" align="right">
+<img src="onrcal_floorplan.jpg" style="width:500px;height500px" align="right">
 </div>
 
 <div>
@@ -109,9 +122,9 @@ display:inline;
 <br>
 <br>
 <br>
-<p style="text-align:right">Building Floor Plan  </p>
-<p style="text-align:center"> Private suite and semi private suite. Sq ft </p>
-</div>
+<div>
+<p style="text-align:center"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Private suite and semi private suite. Sq ft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building Floor Plan ???sq ft</b> </p>
+
 
 <div id="footer">
 <h1>The Oaks of Alamance</h1>

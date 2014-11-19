@@ -3,18 +3,19 @@
 
 <head>
 <style>
-#header	{
-background-color:#537E53;
-color:black;
-text-align:center;
-padding:5px;
-}
-ul#header li{
-display:inline;
-}
+	#header	{
+	background-color:#537E53;
+	color:black;
+	text-align:center;
+	padding:5px;
+	}
+
+	ul#header li{
+	display:inline;
+	}
 
 
-#navbar {
+		#navbar {
 			background-color: #009999;
 			height: 600px;
 			width: 170px;
@@ -26,13 +27,21 @@ display:inline;
 			}
 
 
-#footer	{
+	#footer	{
 	background-color:#537E53;
 	color:black;
 	clear:both;
 	text-align:center;
 	padding:5px;
-}
+	}
+
+		#section {
+			height: 1000px;
+			width: 1333px;
+			float: right;
+			text-align: center;
+			background-color: #CCFFFF;
+			}
 
 #pa {
 			font-size: 24px;
@@ -52,55 +61,55 @@ display:inline;
 <div id="header">
 <ul id="header">
 
-	<li> <img src="36a89ee2-6b35-11e4-8ead-9376abc71039.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
+	<li> <img src="Pictures/facebook.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
 	<li style="font-size:300%">The Oaks of Alamance</li>
 	<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
-		<img src="3449dbc0-6b35-11e4-9094-406cfed5c5e2.jpg" alt="Facebook" style="height:20px;width:20px"></li>
+		<img src="Pictures/floorplan2.jpg" alt="Facebook" style="height:20px;width:20px"></li>
 </div>
 
 <div id="navbar">
 
 		<p id="pa"> <u> Navigation </u> </p>
-
-		<br>
 		
-		<p id="pb"> HomePage </p>
+		<br>
+
+		<a href="#HomePage.htm"> <p id="pb"> HomePage </p> </a>
+		
+		<br>
+
+		<a href="Contact.htm"> <p id="pb"> Contacts </p> </a>
 
 		<br>
 
-		<p id="pb"> Contacts </p>
-
-		<br>
-
-		<p id="pb"> Plans&Events </p>
+		<a href="Plans_Events.htm"> <p id="pb"> Plans&Events </p> </a>
 
 		<br>	
 		
-		<p id="pb"> activities </p>
+		<a href="Activities.htm"> <p id="pb"> activities </p> </a>
 
 		<br>
 
-		<p id="pb"> Rehab </p>
+		<a href="Rehab.htm"> <p id="pb"> Rehab </p> </a>
 
 		<br>
 
-		<p id="pb"> Employment </p>
+		<a href="Employment.htm"> <p id="pb"> Employment </p> </a>
 
 		<br>
 
-		<p id="pb"> Menu's </p>
+		<a href="Menu.htm"> <p id="pb"> Menu's </p> </a>
 
 		<br>
 
-		<p id="pb"> Floor Plan </p>
+		<a href="FloorPlan.htm"> <p id="pb"> Floor Plan </p> </a>
 
 		</div>
 
 
 <h1 style="text-align:center"> Floor Plan </h1>
-<div>
-<img src="Haven-Alzheimers-Greenville-Floorplans(1).jpg" style="width:400px;height400px" align="right">
-<img src="onrcal_floorplan.jpg" style="width:500px;height500px" align="right">
+<div id="section">
+<img src="Pictures/floorplan1.jpg" style="width:400px;height400px" align="right">
+<img src="Pictures/floorplan2.jpg" style="width:500px;height500px" align="right">
 </div>
 
 <div>

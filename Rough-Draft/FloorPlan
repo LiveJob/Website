@@ -1,79 +1,73 @@
 <!DOCTYPE html>
-<body>
 
 <head>
-<style>
-	#header	{
-	background-color:#537E53;
-	color:black;
-	text-align:center;
-	padding:5px;
-	}
+	<style>
+		#header	{
+		background-color:#537E53;
+		color:black;
+		text-align:center;
+		padding:5px;
+		}
 
-	ul#header li{
-	display:inline;
-	}
+		ul#header li{
+		display:inline;
+		}
 
 
 		#navbar {
-			background-color: #009999;
-			height: 600px;
-			width: 170px;
-			float: left;
-			text-align: center;
-			position: fixed;
-			line-height: 90%;
-			padding: 1px;
-			}
+		background-color: #009999;
+		height: 600px;
+		width: 170px;
+		float: left;
+		text-align: center;
+		position: fixed;
+		line-height: 90%;
+		padding: 1px;
+		}
 
 
-	#footer	{
-	background-color:#537E53;
-	color:black;
-	clear:both;
-	text-align:center;
-	padding:5px;
-	}
+		#footer	{
+		background-color:#537E53;
+		color:black;
+		clear:both;
+		text-align:center;
+		padding:5px;
+		}
 
-		#section {
-			height: 1000px;
-			width: 1333px;
-			float: right;
-			text-align: center;
-			background-color: #CCFFFF;
-			}
-
-#pa {
-			font-size: 24px;
-			color: #99FF99;
-			}
+		#pa {
+		font-size: 24px;
+		color: #99FF99;
+		}
 		
-			#pb {
-			font-size: 16px;
-			color: #99FF99;
-			}	
+		#pb {
+		font-size: 16px;
+		color: #99FF99;
+		}	
+
+	</style>
 
 </head>
-</style>
 
-<body>
+	<body>
 
-<div id="header">
-<ul id="header">
+		<div id="header">
 
-	<li> <img src="Pictures/facebook.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
-	<li style="font-size:300%">The Oaks of Alamance</li>
-	<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
-		<img src="Pictures/floorplan2.jpg" alt="Facebook" style="height:20px;width:20px"></li>
-</div>
+			<ul id="header">
 
-<div id="navbar">
+			<li> <img src="Pictures/oakleaf.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
+			<li style="font-size:300%">The Oaks of Alamance</li>
+			<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
+			<img src="Pictures/facebook.jpg" alt="Facebook" style="height:20px;width:20px"></li>
+			<h3>"Its's more than a place to live-it's a place to call home."</h3>
+		</div>
+
+		<div id="navbar">
 
 		<p id="pa"> <u> Navigation </u> </p>
 		
 		<br>
 
-		<a href="#HomePage.htm"> <p id="pb"> HomePage </p> </a>
+		<a href="HomePage.htm"> <p id="pb"> HomePage </p> </a>
 		
 		<br>
 
@@ -85,7 +79,7 @@
 
 		<br>	
 		
-		<a href="Activities.htm"> <p id="pb"> activities </p> </a>
+		<a href="Activities.htm"> <p id="pb"> Activities </p> </a>
 
 		<br>
 
@@ -106,42 +100,48 @@
 		</div>
 
 
-<h1 style="text-align:center"> Floor Plan </h1>
-<div id="section">
-<img src="Pictures/floorplan1.jpg" style="width:400px;height400px" align="right">
-<img src="Pictures/floorplan2.jpg" style="width:500px;height500px" align="right">
-</div>
+		<div id="section">
+		<h1 style= "text-align:center"> Floor Plan </h1>
+		
+		<div>
 
-<div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div>
-<p style="text-align:center"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Private suite and semi private suite. Sq ft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building Floor Plan ???sq ft</b> </p>
+		<img src="Pictures/floorplan1.jpg" style="width:400px;height400px" align="right">
+		<img src="Pictures/floorplan2.jpg" style="width:500px;height500px" align="right">
 
+		</div>
 
-<div id="footer">
-<h1>The Oaks of Alamance</h1>
-<h2>1670 Westbrook Avenue<br>
-Burlington, NC 27215<br>
-Phone: 336-584-3070<br>
-Fax: 336-584-3458
-</div>
+		<div>
+
+		<br>
+		<br>	
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+
+		</div>
+
+		</div>
+		
+		<div id="footer">
+		<h1>The Oaks of Alamance</h1>
+		<h2>1670 Westbrook Avenue<br>
+		Burlington, NC 27215<br>
+		Phone: 336-584-3070<br>
+		Fax: 336-584-3458
+		</div>
 
 </body>
 </html>

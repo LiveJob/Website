@@ -19,26 +19,28 @@
 			}	
 			
 			#header	{
-			background-color:#537E53;
-			color:black;
-			text-align:center;
+			background-color: #537E53;
+			color: black;
+			text-align: center;
 			width: 100%;
 			height: 95px;
+			position: fixed;
 			}
 
 			ul#header li {
-			display:inline;
+			display: inline;
 			}
 	
 			#navbar {
 			background-color: #009999;
-			height: 600px;
+			height: 900px;
 			width: 170px;
 			float: left;
 			text-align: center;
 			position: fixed;
-			line-height: 90%;
+			line-height: 20px;
 			padding: 1px;
+			z-index: 1;
 			}
 
 			#section {
@@ -47,6 +49,7 @@
 			float: right;
 			text-align: center;
 			background-color: #CCFFFF;
+			margin-top: 95px;
 			}
 
 			#footer	{
@@ -54,17 +57,43 @@
 			color: black;
 			clear: both;
 			text-align: center;
-			padding: 5px;
+			position: fixed;
+			bottom: 0px;
+			width: 100%;
 			}
 	
-			#pa {
+			p#pa {
 			font-size: 24px;
 			color: #99FF99;
 			}
 		
-			#pb {
+			p#pb {
 			font-size: 16px;
 			color: #99FF99;
+			}	
+
+			a:link {
+    			color:#00FA9A;
+    			background-color:transparent;
+    			text-decoration:none;
+			}
+
+			a:visited {
+    			color:#00FA9A;
+    			background-color:transparent;
+    			text-decoration:none;
+			}
+
+			a:hover {
+   		 	color:#2F4F4F;
+    			background-color:transparent;
+    			text-decoration:underline;
+			}
+
+			a:active {
+    			color:#2F4F4F;
+    			background-color:transparent;
+    			text-decoration:underline;
 			}	
 
 		</style>
@@ -105,7 +134,7 @@
 
 		<br>	
 		
-		<a href="Activities.htm"> <p id="pb"> Activities </p> </a>
+		<a href="Activities.htm"> <p id="pb"> activities </p> </a>
 
 		<br>
 
@@ -126,15 +155,15 @@
 		</div>
 
 		<div id="section">
-		<h1 style= "text-align:center"> Plans & Events </h1>
+		<h1> Plans&Events </h1>
 		</div>
 
 		<div id="footer">
-		<h1>The Oaks of Alamance</h1>
-		<h2>1670 Westbrook Avenue<br>
+		<h3>The Oaks of Alamance</h3>
+		<h5>1670 Westbrook Avenue<br>
 		Burlington, NC 27215<br>
 		Phone: 336-584-3070<br>
-		Fax: 336-584-3458
+		Fax: 336-584-3458</h5>
 		</div>
 	
 	</body>

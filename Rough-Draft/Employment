@@ -27,6 +27,7 @@
 			text-align:center;
 			width: 100%;
 			height: 95px;
+			position:fixed;
 			}
 
 			ul#header li {
@@ -35,21 +36,23 @@
 	
 			#navbar {
 			background-color: #009999;
-			height: 600px;
+			height: 900px;
 			width: 170px;
 			float: left;
 			text-align: center;
 			position: fixed;
-			line-height: 90%;
+			line-height: 20px;
 			padding: 1px;
+			z-index:1;
 			}
 
 			#section {
 			height: 1000px;
 			width: 1333px;
 			float: right;
-			text-align: center;
+			text-align:center;
 			background-color: #CCFFFF;
+			margin-top:95px;
 			}
 
 			#footer	{
@@ -57,18 +60,67 @@
 			color: black;
 			clear: both;
 			text-align: center;
-			padding: 5px;
+			position:fixed;
+			bottom:0px;
+			width:100%;
 			}
 	
-			#pa {
+			p#pa {
 			font-size: 24px;
 			color: #99FF99;
 			}
 		
-			#pb {
+			p#pb {
 			font-size: 16px;
 			color: #99FF99;
+			}
+
+			a:link {
+    			color:#00FA9A;
+    			background-color:transparent;
+    			text-decoration:none;
+			}
+
+			a:visited {
+    			color:#00FA9A;
+    			background-color:transparent;
+    			text-decoration:none;
+			}
+
+			a:hover {
+   		 	color:#2F4F4F;
+    			background-color:transparent;
+    			text-decoration:underline;
+			}
+
+			a:active {
+    			color:#2F4F4F;
+    			background-color:transparent;
+    			text-decoration:underline;
+			}
+
+			table {
+    			border: 1px solid black;
+    			border-collapse: collapse;
+			width: 80%;
+			float: right;
+			}
+			
+			#divtbl {
 			}	
+
+			th {
+			text-align: left;
+			color: black;
+			font-size: 14px;
+			font-weight: bold;
+			background-color: #DCDCDC;
+			}
+
+			td {
+			text-align: left;
+			font-size: 12px;
+			}
 
 		</style>
 
@@ -83,8 +135,9 @@
 			<li> <img src="Pictures/oakleaf.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
 			<li style="font-size:300%">The Oaks of Alamance</li>
 			<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
-			<img src="Picutres/facebook.jpg" alt="Facebook" style="height:20px;width:20px"></li>
+			<img src="Pictures/facebook.jpg" alt="Facebook" style="height:20px;width:20px"></li>
 			<h3>"Its's more than a place to live-it's a place to call home."</h3>
+
 			</ul>
 
 		</div>
@@ -107,7 +160,7 @@
 
 		<br>	
 		
-		<a href="Activities.htm"> <p id="pb"> Activities </p> </a>
+		<a href="Activities.htm"> <p id="pb"> activities </p> </a>
 
 		<br>
 
@@ -129,14 +182,19 @@
 
 		<div id="section">
 		<h1 style= "text-align:center"> Employment Page </h1>
+
+		<div id="divtbl">
+		
+		</div>
+		
 		</div>
 
 		<div id="footer">
-		<h1>The Oaks of Alamance</h1>
-		<h2>1670 Westbrook Avenue<br>
+		<h3>The Oaks of Alamance</h3>
+		<h5>1670 Westbrook Avenue<br>
 		Burlington, NC 27215<br>
 		Phone: 336-584-3070<br>
-		Fax: 336-584-3458
+		Fax: 336-584-3458</h5>
 		</div>
 	
 	</body>

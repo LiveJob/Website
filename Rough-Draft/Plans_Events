@@ -19,16 +19,16 @@
 			}	
 			
 			#header	{
-			background-color: #537E53;
-			color: black;
-			text-align: center;
+			background-color:#537E53;
+			color:black;
+			text-align:center;
 			width: 100%;
 			height: 95px;
-			position: fixed;
+			position:fixed;
 			}
 
 			ul#header li {
-			display: inline;
+			display:inline;
 			}
 	
 			#navbar {
@@ -38,18 +38,18 @@
 			float: left;
 			text-align: center;
 			position: fixed;
-			line-height: 20px;
+			line-height: 90%;
 			padding: 1px;
-			z-index: 1;
+			z-index:1;
 			}
 
 			#section {
 			height: 1000px;
 			width: 1333px;
 			float: right;
-			text-align: center;
+			text-align:center;
 			background-color: #CCFFFF;
-			margin-top: 95px;
+			margin-top:95px;
 			}
 
 			#footer	{
@@ -57,9 +57,9 @@
 			color: black;
 			clear: both;
 			text-align: center;
-			position: fixed;
-			bottom: 0px;
-			width: 100%;
+			position:fixed;
+			bottom:0px;
+			width:100%;
 			}
 	
 			p#pa {
@@ -72,30 +72,6 @@
 			color: #99FF99;
 			}	
 
-			a:link {
-    			color:#00FA9A;
-    			background-color:transparent;
-    			text-decoration:none;
-			}
-
-			a:visited {
-    			color:#00FA9A;
-    			background-color:transparent;
-    			text-decoration:none;
-			}
-
-			a:hover {
-   		 	color:#2F4F4F;
-    			background-color:transparent;
-    			text-decoration:underline;
-			}
-
-			a:active {
-    			color:#2F4F4F;
-    			background-color:transparent;
-    			text-decoration:underline;
-			}	
-
 		</style>
 
 	</head>
@@ -106,10 +82,10 @@
 
 			<ul id="header">
 
-			<li> <img src="Pictures/oakleaf.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
+			<li> <img src="oakleaf.jpg" alt="Oak Leaf" style="height:20px;width:20px"</li>
 			<li style="font-size:300%">The Oaks of Alamance</li>
 			<li><a href="https://m.facebook.com/profile.php?id=137057103014784"> </a>
-			<img src="Pictures/facebook.jpg" alt="Facebook" style="height:20px;width:20px"></li>
+			<img src="facebook.jpg" alt="Facebook" style="height:20px;width:20px"></li>
 			<h3>"Its's more than a place to live-it's a place to call home."</h3>
 
 			</ul>
@@ -155,15 +131,15 @@
 		</div>
 
 		<div id="section">
-		<h1> Plans&Events </h1>
-		</div>
+		<h1> Plans & Events </h1>
+		<img src="KPLR-IL-September-2013-calendar.jpg" style="width:1000px;height:800px" align="right">
+		</div
 
 		<div id="footer">
-		<h3>The Oaks of Alamance</h3>
-		<h5>1670 Westbrook Avenue<br>
-		Burlington, NC 27215<br>
-		Phone: 336-584-3070<br>
-		Fax: 336-584-3458</h5>
+		<div id="footer">
+		<h4>1670 Westbrook Avenue &bull; Burlington, NC 27215 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		Phone: 336-584-3070 &bull; Fax : 336-584-3458 </b> 
+		</div>
 		</div>
 	
 	</body>
